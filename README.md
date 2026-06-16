@@ -1,7 +1,7 @@
 # List Coder Omni
 
 <p align="center">
-  <img src="tee.png" width="120" alt="List Coder Omni Logo"/>
+  <img src="icon.png" width="120" alt="List Coder Omni Logo"/>
 </p>
 
 <h3 align="center">O IDE que entende voce.</h3>
