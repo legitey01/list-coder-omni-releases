@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://list-coder.com">Website</a> | 
-  <a href="https://github.com/legitey01/List-Coder-Omni">GitHub</a> | 
-  <a href="https://discord.gg/listcoder">Discord</a>
+  <a href="https://github.com/legitey01/List-Coder-Omni">GitHub</a> 
 </p>
 
 ---
@@ -45,14 +44,6 @@ O List Coder Omni verifica automaticamente novas versoes a cada inicializacao. O
 
 ---
 
-## Links
-
-- **Website:** [list-coder.com](https://list-coder.com)
-- **Documentacao:** [list-coder.com/docs](https://list-coder.com/docs)
-- **Discord:** [discord.gg/listcoder](https://discord.gg/listcoder)
-- **Twitter:** [@listcoder](https://twitter.com/listcoder)
-
----
 
 ## Licenca
 
