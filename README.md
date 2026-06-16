@@ -1,15 +1,14 @@
 # List Coder Omni
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/legitey01/List-Coder-Omni/dev/packages/desktop/resources/icons/icon.png" width="120" alt="List Coder Omni Logo"/>
+  <img src="tee.png" width="120" alt="List Coder Omni Logo"/>
 </p>
 
 <h3 align="center">O IDE que entende voce.</h3>
 
 <p align="center">
   <a href="https://list-coder.com">Website</a> | 
-  <a href="https://github.com/legitey01/List-Coder-Omni">GitHub</a> | 
-  <a href="https://discord.gg/listcoder">Discord</a>
+  <a href="https://github.com/legitey01/List-Coder-Omni">GitHub</a> 
 </p>
 
 ---
@@ -42,15 +41,6 @@ O **List Coder Omni** e um IDE desktop inteligente, feito para desenvolvedores q
 ## Como funciona o Auto-Update
 
 O List Coder Omni verifica automaticamente novas versoes a cada inicializacao. O arquivo `latest-omni.yml` contem as informacoes da versao mais recente e e atualizado a cada release.
-
----
-
-## Links
-
-- **Website:** [list-coder.com](https://list-coder.com)
-- **Documentacao:** [list-coder.com/docs](https://list-coder.com/docs)
-- **Discord:** [discord.gg/listcoder](https://discord.gg/listcoder)
-- **Twitter:** [@listcoder](https://twitter.com/listcoder)
 
 ---
 
